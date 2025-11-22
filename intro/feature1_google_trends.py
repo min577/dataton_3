@@ -1,8 +1,6 @@
 """
 핵심 기능 1: K-콘텐츠 영상 숏폼 + 자동 음식 태깅
-Google Trends 데이터 수집 스크립트
-
-이 스크립트는 pytrends를 사용하여 K-콘텐츠와 한식 검색어의 상관관계를 분석합니다.
+Google Trends 데이터
 """
 
 from pytrends.request import TrendReq
